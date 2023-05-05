@@ -7,6 +7,45 @@ I'm Brenn! 👋
 ## ⚡ Fun fact: ...
 I have been a dental hygienist for the past ten years and looking for my first development job
 
+## My technical skills...
+-HTML
+
+-CSS
+
+-Javascript
+
+-Third party APIs -JQuery, bootstrap, bulma
+
+-Server side APIs, AJAX, and JSON
+
+-Node.js
+
+-Object-oriented programming
+
+-Express.js servers
+
+-MySQL
+
+-Sequelize
+
+-MVC framework 
+
+-Handlebars.js
+
+-Unit testing
+
+-Agile methodology
+
+-Heroku
+
+-MongoDB
+
+-NoSQL
+
+-React
+
+-MERN
+
 ## 🔭 I’m currently working on... 
 A full stack application using javascript, tailwind, mongoose, mongoDB, react, graphql, and apollo server for my final project at UPenn full stack web development program- 
 
