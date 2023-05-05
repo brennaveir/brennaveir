@@ -1,16 +1,35 @@
-### Hi there 👋
+# Welcome!
+I'm Brenn! 👋
 
-<!--
-**brennaveir/brennaveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Fun fact: ...
+I have been a dental hygienist for the past ten years and looking for my first development job
+
+## 🔭 I’m currently working on... 
+A full stack application using javascript, tailwind, mongoose, mongoDB, react, graphql, and apollo server for my final project at UPenn full stack web development program- 
+
+## 👯 I’m looking to collaborate on ...
+Any full stack application
+
+## 💬 Ask me about ...
+-What video game I'm currently playing
+
+-My dogs
+
+-My cats
+
+## 🌱 Future learning ...
+In the future I am looking to learn new programming languages such as:
+
+-C#
+
+-Python
+
+-Ruby
+
+## 📫 How to reach me: ...
+[LinkedIn](https://www.linkedin.com/in/brennvoyles/)
+
+[Email](mailto:brennaveir@gmail.com)
