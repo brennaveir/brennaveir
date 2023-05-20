@@ -42,6 +42,8 @@ I have been a dental hygienist for the past ten years and looking for my first d
 
 -NoSQL
 
+-GraphQL
+
 -React
 
 -MERN
