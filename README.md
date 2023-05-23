@@ -49,7 +49,7 @@ I have been a dental hygienist for the past ten years and looking for my first d
 -MERN
 
 ## 🔭 I’m currently working on... 
-A full stack application using javascript, tailwind, mongoose, mongoDB, react, graphql, and apollo server for my final project at UPenn full stack web development program- 
+Learning angular
 
 ## 👯 I’m looking to collaborate on ...
 Any full stack application
