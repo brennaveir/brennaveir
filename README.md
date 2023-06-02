@@ -49,7 +49,7 @@ I have been a dental hygienist for the past ten years and looking for my first d
 -MERN
 
 ## 🔭 I’m currently working on... 
-Learning angular
+Learning Next.js
 
 ## 👯 I’m looking to collaborate on ...
 Any full stack application
