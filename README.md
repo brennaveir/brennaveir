@@ -5,7 +5,7 @@ I'm Brenn! 👋
 
 
 ## ⚡ Fun fact: ...
-I have been a dental hygienist for the past ten years and looking for my first development job
+I am a front-end developer with a background in dental hygiene
 
 ## My technical skills...
 -HTML
