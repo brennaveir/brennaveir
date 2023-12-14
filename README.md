@@ -14,6 +14,8 @@ I am a front-end developer with a background in dental hygiene
 
 -Javascript
 
+-Typescript
+
 -Third party APIs -JQuery, bootstrap, bulma
 
 -Server side APIs, AJAX, and JSON
@@ -48,11 +50,6 @@ I am a front-end developer with a background in dental hygiene
 
 -MERN
 
-## 🔭 I’m currently working on... 
-Learning Next.js
-
-## 👯 I’m looking to collaborate on ...
-Any full stack application
 
 ## 💬 Ask me about ...
 -What video game I'm currently playing
@@ -69,6 +66,8 @@ In the future I am looking to learn new programming languages such as:
 -Python
 
 -Ruby
+
+-Rust
 
 ## 📫 How to reach me: ...
 [LinkedIn](https://www.linkedin.com/in/brennvoyles/)
